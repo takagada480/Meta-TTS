@@ -27,3 +27,4 @@ symbols = (
     + _pinyin
     + _silences
 )
+9
